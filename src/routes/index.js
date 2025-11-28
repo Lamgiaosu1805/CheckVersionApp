@@ -1,7 +1,7 @@
 const testRouter = require('./test')
 
 const route = (app) => {
-    app.use(`/test`, testRouter)
+    app.use(`/getVersion`, testRouter)
 }
 
 module.exports = route;
