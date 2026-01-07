@@ -14,6 +14,9 @@ const TestController = {
                 case "TIKLUY":
                     versionApp = "1.3.2"
                     break;
+                case "VNFITE":
+                    versionApp = "1.5.0"
+                    break;
 
                 default:
                     versionApp = ""
