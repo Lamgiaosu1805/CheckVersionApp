@@ -12,7 +12,7 @@ const TestController = {
             const appName = query.appName || ""
             switch (appName) {
                 case "TIKLUY":
-                    versionApp = "1.4.5"
+                    versionApp = "1.4.6"
                     break;
                 case "VNFITE":
                     versionApp = "1.5.3"
