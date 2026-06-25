@@ -15,7 +15,7 @@ const TestController = {
                     versionApp = "1.4.6"
                     break;
                 case "VNFITE":
-                    versionApp = "1.5.3"
+                    versionApp = "1.5.4"
                     break;
 
                 default:
